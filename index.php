@@ -316,6 +316,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="js/bootstrap.min.js"></script>
-	<center>Code by Jdbye&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Page designed by Jdbye&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Uses Bootstrap</center>
+	<center>Code is © 2016 Jdbye and licensed under the GNU LGPLv3&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Uses Bootstrap</center>
+	<center>Source code is <a href="https://github.com/Jdbye/3ds_titlekey_db_stats_website">available here</a></center>
   </body>
 </html>
